@@ -29,13 +29,13 @@ import {
 const Content = () =>{
   return (
     <div>
-      <div className='flex justify-center my-5'>
+      {/* <div className='flex justify-center my-5'>
         <a href="/profile/iowo.apk" download>
           <button className="px-4 py-2 font-semibold text-white transition duration-300 bg-blue-500 rounded-lg hover:bg-blue-600">
             Download Now
           </button>
         </a>
-      </div>
+      </div> */}
       <div className='my-5 text-center'>
         <h3 className={`font-bold text-[black] text-[32px] capitalize`}>
         Setup guide
