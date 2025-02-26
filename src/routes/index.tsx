@@ -13,7 +13,7 @@ import {
 
 const router = createBrowserRouter([
     {
-        path: "/iowo",
+        path: "/IOWO-Download-Page",
         loader: () => ({ message: "Hello Data Router!" }),
         Component: IOWOReportIndex,  
         children:[
