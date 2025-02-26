@@ -1,16 +1,13 @@
-import React from 'react'
-
 import {
     InlineContentSingleImage,
 } from '../index'
 
 import {
-    wall,
     getstartednew
 } from '../../assets/images/IOWOReport/index'
 
 function ProjectWrapper({
-    children,
+    children = <></>,
     title = "title",
     subtitle = "sub",
     bgImage = getstartednew,

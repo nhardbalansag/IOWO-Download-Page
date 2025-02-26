@@ -1,9 +1,4 @@
-import React from 'react'
-
 import {
-  wall,
-  iowobg,
-  getstarted,
   redsigningoogle,
   roleselection,
   selectgoogleaccount,
@@ -21,18 +16,14 @@ import {
   doneqrreport,
   tofinalize,
   finalizealert,
-  saveFilesalert,
   tofinish,
   alertcheckinternet,
-  nogoogleaccount,
   allset,
   getstartednew
 } from '../../assets/images/IOWOReport/index'
 
 import {
   CardRightImage,
-  Divider,
-  ProjectWrapper
 } from '../../component/index'
 
 const Content = () =>{

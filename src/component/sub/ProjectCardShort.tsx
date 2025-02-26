@@ -1,5 +1,3 @@
-import React from 'react'
-
 function ProjectCardShort({imageSrc = "", link = '#project'}) {
   return (
     <a href={link} className="transition-all duration-500 hover:scale-105">

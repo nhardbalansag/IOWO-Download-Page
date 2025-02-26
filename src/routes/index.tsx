@@ -1,6 +1,4 @@
 
-import React from 'react'
-
 import {
     createBrowserRouter,
     RouterProvider,
@@ -26,7 +24,7 @@ const router = createBrowserRouter([
 ])
 
 const Routes = () =>{
-    return <RouterProvider router={router} fallbackElement={<p>Loading...</p>} />;
+    return <RouterProvider router={router}/>;
 }
 
 export default Routes;

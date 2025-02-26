@@ -1,4 +1,4 @@
-import WebDesign from "./webDesign";
+import WebDesign from "./WebDesign";
 import Linkedin from "./linkedin";
 import Information from "./Information";
 import Support from "./Support";

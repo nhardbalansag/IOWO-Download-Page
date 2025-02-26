@@ -1,5 +1,3 @@
-import React from 'react'
-
 import {
     Information,
 } from '../../assets/icons/index'

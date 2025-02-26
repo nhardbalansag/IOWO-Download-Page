@@ -1,4 +1,3 @@
-import React from 'react'
 
 function Linkedin({size = 8}) {
     return (

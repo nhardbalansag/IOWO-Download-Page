@@ -1,5 +1,3 @@
-import React from 'react'
-
 function Information({size = 8}) {
     return (
         <svg className={`w-${size} h-${size}`} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512">

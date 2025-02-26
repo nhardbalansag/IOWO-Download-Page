@@ -1,5 +1,3 @@
-import React from 'react'
-
 import {
   ProjectWrapper
 } from '../../component/index'

@@ -1,6 +1,5 @@
-import React from 'react'
 
-function CardRightImage({image, title = "test", step = 'step test', subtext = "sub", textColor = '#0C0C0C'}) {
+function CardRightImage({image = "", title = "test", step = 'step test', subtext = "sub", textColor = '#0C0C0C'}) {
 
   return (
     <div

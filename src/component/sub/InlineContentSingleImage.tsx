@@ -1,6 +1,5 @@
-import React from 'react'
 
-function InlineContentSingleImage({image, title, subtext, textColor = 'white', }) {
+function InlineContentSingleImage({image = "", title = "", subtext = "", textColor = 'white', }) {
   return (
     <div className="flex flex-col justify-center lg:flex-row">
         <div className="flex-col items-center justify-center text-center place-content-center lg:w-1/2">
