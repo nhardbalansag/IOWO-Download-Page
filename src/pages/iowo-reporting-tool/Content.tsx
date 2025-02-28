@@ -30,7 +30,7 @@ const Content = () =>{
   return (
     <div>
       <div className='flex justify-center my-5'>
-        <a href="https://drive.google.com/file/d/1psXXkPkEej7xi3nEjyxONSJSV5V2YlQT/view?usp=sharing" download>
+        <a href="https://drive.google.com/file/d/1DQpHQPdL-TCcgsP-vbQ162jlSWk4XtVZ/view?usp=sharing" download>
           <button className="px-4 py-2 font-semibold text-white transition duration-300 bg-blue-500 rounded-lg hover:bg-blue-600">
             Download Now
           </button>
